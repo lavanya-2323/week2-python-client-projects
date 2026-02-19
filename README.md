@@ -16,4 +16,5 @@ This project removes duplicate and invalid data values and performs data transfo
 - Data cleaning
 
 ## Author:
-Sravya Kovvuri
+Lavanya Beeraka
+
